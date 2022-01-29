@@ -1,6 +1,6 @@
 # Sentiment-Based-Product-Recommendation-System
 
-Problem Statement
+## Problem Statement
 The e-commerce business is quite popular today. Here, you do not need to take orders by going to each customer. A company launches its website to sell the items to the end consumer, and customers can order the products that they require from the same website. Famous examples of such e-commerce companies are Amazon, Flipkart, Myntra, Paytm and Snapdeal.
 
  
@@ -18,11 +18,10 @@ As a senior ML Engineer, you are asked to build a model that will improve the re
  
 
 In order to do this, you planned to build a sentiment-based product recommendation system, which includes the following tasks.
-
-Data sourcing and sentiment analysis
-Building a recommendation system
-Improving the recommendations using the sentiment analysis model
-Deploying the end-to-end project with a user interface
+1. Data sourcing and sentiment analysis
+2. Building a recommendation system
+3. Improving the recommendations using the sentiment analysis model
+4. Deploying the end-to-end project with a user interface
  
 
 Data sourcing and sentiment analysis
@@ -31,13 +30,10 @@ In this task, you have to analyse product reviews after some text preprocessing 
  
 
 The dataset that you are going to use is inspired by this Kaggle competition. We have made a subset of the original dataset, which has been provided below.
-
-Product Reviews Dataset
-Download
+- https://docs.google.com/spreadsheets/d/1lcIcrsU1lz3a8nqKcZBmn-LU8Rogu_uH-TWe6zY1OIs/edit?usp=sharing
+ 
 This dataset consists of 30,000 reviews for more than 200 different products. The reviews and ratings are given by more than 20,000 users. Please refer to the following attribute description file to get the details about the columns of the Review Dataset.
 
-Product Reviews Dataset- Attribute Description
-Download
 The steps to be performed for the first task are given below.
 
 Exploratory data analysis
